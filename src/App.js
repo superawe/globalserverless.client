@@ -39,7 +39,10 @@ const App = () => (
       </Router>
     </header>
     <p className="App-intro">
-      To get started, edit <code>src/App.js</code> and save to reload.
+      This is an example site created for an article hosted on{" "}
+      <a href="https://www.pario.se" target="_blank">
+        pario.se
+      </a>
     </p>
   </div>
 );
